@@ -1,0 +1,669 @@
+[
+    {
+        "id": "30140",
+        "srs": "T20 Blast 2020",
+        "mnum": "Central Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "WARKS won by 16 runs",
+        "venue_name": "Edgbaston",
+        "venue_location": "Birmingham, England",
+        "toss": "Warwickshire elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "10476",
+                "name": "Chris Watts",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "6860",
+                "name": "Paul Baldwin",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "18209",
+                "name": "Stuart Cummings",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 23:00:00",
+        "team1": {
+            "name": "Warwickshire",
+            "squad": [
+                "Robert Yates",
+                "Adam Hose",
+                "Rhodes",
+                "Hain",
+                "Michael Burgess",
+                "Mousley",
+                "Bresnan",
+                "Brookes",
+                "Olly Stone",
+                "Jacob Lintott",
+                "Jeetan Patel"
+            ],
+            "squad_bench": [
+                "Sibley",
+                "Hannon-Dalby",
+                "Liam Norwell",
+                "Ed Pollock",
+                "Alex Thomson"
+            ]
+        },
+        "team2": {
+            "name": "Worcestershire",
+            "squad": [
+                "Rutherford",
+                "Jack Haynes",
+                "Libby",
+                "Brett DOliveira",
+                "Cox",
+                "Whiteley",
+                "Barnard",
+                "Mitchell",
+                "Patrick Brown",
+                "Adam Finch",
+                "Charlie Morris"
+            ],
+            "squad_bench": [
+                "Pennington",
+                "Josh Tongue",
+                "Twohig",
+                "Tom Fell"
+            ]
+        }
+    },
+    {
+        "id": "30145",
+        "srs": "T20 Blast 2020",
+        "mnum": "Central Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "GLAM won by 17 runs",
+        "venue_name": "Sophia Gardens",
+        "venue_location": "Cardiff, Wales",
+        "toss": "Glamorgan elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "7504",
+                "name": "Jeff Evans",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "6888",
+                "name": "Jeremy Lloyds",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "5356",
+                "name": "Richard Ellison",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 23:00:00",
+        "team1": {
+            "name": "Glamorgan",
+            "squad": [
+                "Lloyd",
+                "Nicholas Selman",
+                "C Cooke",
+                "Andy Balbirnie",
+                "Kiran Carlson",
+                "Daniel Douthwaite",
+                "Wagg",
+                "Salter",
+                "Ruaidhri Smith",
+                "van der Gugten",
+                "Prem Sisodiya"
+            ],
+            "squad_bench": [
+                "Callum Taylor",
+                "Owen Morgan",
+                "de Lange",
+                "Lukas Carey",
+                "Billy Root",
+                "Hogan"
+            ]
+        },
+        "team2": {
+            "name": "Gloucestershire",
+            "squad": [
+                "Miles Hammond",
+                "Dent",
+                "Cockbain",
+                "Ryan Higgins",
+                "Jack Taylor",
+                "James Bracey",
+                "Benny Howell",
+                "Buuren",
+                "Tom Smith",
+                "Payne",
+                "Matt Taylor"
+            ],
+            "squad_bench": [
+                "George Scott",
+                "Josh Shaw",
+                "George Hankins",
+                "Ben Charlesworth"
+            ]
+        }
+    },
+    {
+        "id": "30135",
+        "srs": "T20 Blast 2020",
+        "mnum": "North Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "LEIC won by 4 wkts",
+        "venue_name": "Grace Road",
+        "venue_location": "Leicester, England",
+        "toss": "Nottinghamshire elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "10048",
+                "name": "Paul Pollard",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "5348",
+                "name": "Nick Cook",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "5371",
+                "name": "James Whitaker",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 21:30:00",
+        "team1": {
+            "name": "Leicestershire",
+            "squad": [
+                "Nick Welch",
+                "Gareth Delany",
+                "Lilley",
+                "Ackermann",
+                "Harry Dearden",
+                "George Rhodes",
+                "Hill",
+                "Callum Parkinson",
+                "Dieter Klein",
+                "Will Davis",
+                "Griffiths"
+            ],
+            "squad_bench": [
+                "Ben Mike",
+                "Nathan Bowley",
+                "Swindells"
+            ]
+        },
+        "team2": {
+            "name": "Nottinghamshire",
+            "squad": [
+                "Hales",
+                "Chris Nash",
+                "Joe Clarke",
+                "Duckett",
+                "Tom Moores",
+                "Christian",
+                "Mullaney",
+                "Samit Patel",
+                "Imad Wasim",
+                "Matthew Carter",
+                "Zak Chappell"
+            ],
+            "squad_bench": [
+                "J Ball",
+                "Tom Barber",
+                "Trego"
+            ]
+        }
+    },
+    {
+        "id": "30139",
+        "srs": "T20 Blast 2020",
+        "mnum": "Central Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "SOM won by 7 wkts",
+        "venue_name": "The Cooper Associates County Ground",
+        "venue_location": "Taunton, England",
+        "toss": "Northamptonshire elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "495",
+                "name": "Ian Blackwell",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "11538",
+                "name": "Russell Warren",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "8304",
+                "name": "Dean Cosker",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 21:30:00",
+        "team1": {
+            "name": "Somerset",
+            "squad": [
+                "Steven Davies",
+                "Babar Azam",
+                "Will Smeed",
+                "Abell",
+                "Goldsworthy",
+                "Gregory",
+                "Tom Lammonby",
+                "Craig Overton",
+                "van der Merwe",
+                "Ollie Sale",
+                "Max Waller"
+            ],
+            "squad_bench": [
+                "Ben Green",
+                "Davey",
+                "Edward Byrom"
+            ]
+        },
+        "team2": {
+            "name": "Northamptonshire",
+            "squad": [
+                "Levi",
+                "Stirling",
+                "Cobb",
+                "Rossington",
+                "Wakely",
+                "Procter",
+                "Saif Zaib",
+                "Graeme White",
+                "Buck",
+                "Sanderson",
+                "Brandon Glover"
+            ],
+            "squad_bench": [
+                "Tom Sole",
+                "Keogh",
+                "Hutton"
+            ]
+        }
+    },
+    {
+        "id": "30150",
+        "srs": "T20 Blast 2020",
+        "mnum": "North Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "DUR won by 74 runs",
+        "venue_name": "Emirates Old Trafford",
+        "venue_location": "Manchester, England",
+        "toss": "Durham elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "6560",
+                "name": "James Middlebrook",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "7594",
+                "name": "Steve OShaughnessy",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "6546",
+                "name": "Will Smith",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 20:30:00",
+        "team1": {
+            "name": "Lancashire",
+            "squad": [
+                "Alex Davies",
+                "Livingstone",
+                "Croft",
+                "Dane Vilas",
+                "Rob Jones",
+                "Lavelle",
+                "Lamb",
+                "Luke Wood",
+                "Saqib Mahmood",
+                "Tom Hartley",
+                "Parkinson"
+            ],
+            "squad_bench": [
+                "Toby Lester",
+                "Liam Hurt",
+                "Josh Bohannon",
+                "Parry"
+            ]
+        },
+        "team2": {
+            "name": "Durham",
+            "squad": [
+                "A Lees",
+                "Graham Clark",
+                "Ben Raine",
+                "Bedingham",
+                "Behardien",
+                "Brydon Carse",
+                "Coughlin",
+                "Scott Steel",
+                "Liam Trevaskis",
+                "Rimmington",
+                "Matty Potts"
+            ],
+            "squad_bench": [
+                "Stuart Poynter",
+                "N Eckersley",
+                "Oliver Gibson",
+                "Sean Dickson"
+            ]
+        }
+    },
+    {
+        "id": "30129",
+        "srs": "T20 Blast 2020",
+        "mnum": "South Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "KENT won by 4 wkts",
+        "venue_name": "St Lawrence Ground",
+        "venue_location": "Canterbury, England",
+        "toss": "Essex elect to bat",
+        "official": {
+            "umpire1": {
+                "id": "5453",
+                "name": "Martin Saggers",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "6844",
+                "name": "Nigel Llong",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "6846",
+                "name": "Steve Davis",
+                "country": "AUS"
+            }
+        },
+        "start_time": "2020-09-18 18:30:00",
+        "team1": {
+            "name": "Kent",
+            "squad": [
+                "Bell-Drummond",
+                "Zak Crawley",
+                "Denly",
+                "Heino Kuhn",
+                "Billings",
+                "A Blake",
+                "Leaning",
+                "Grant Stewart",
+                "Matt Milnes",
+                "Imran Qayyum",
+                "Fred Klaassen"
+            ],
+            "squad_bench": [
+                "Jordan Cox",
+                "Qadri",
+                "Oliver Robinson",
+                "Marcus ORiordan",
+                "Podmore",
+                "Groenewald",
+                "Haggett"
+            ]
+        },
+        "team2": {
+            "name": "Essex",
+            "squad": [
+                "Delport",
+                "Westley",
+                "Daniel Lawrence",
+                "Michael Pepper",
+                "ten Doeschate",
+                "P Walter",
+                "Harmer",
+                "Matthew Quinn",
+                "Jack Plom",
+                "Aron Nijjar",
+                "Samuel Cook"
+            ],
+            "squad_bench": [
+                "Ben Allison",
+                "Snater",
+                "Aaron Beard",
+                "James Porter",
+                "Varun Chopra",
+                "Wheater"
+            ]
+        }
+    },
+    {
+        "id": "30130",
+        "srs": "T20 Blast 2020",
+        "mnum": "South Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "SUS won by 3 wkts",
+        "venue_name": "County Ground",
+        "venue_location": "Hove, England",
+        "toss": "Sussex elect to bowl",
+        "official": {
+            "umpire1": {
+                "id": "5462",
+                "name": "Ian Gould",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "6597",
+                "name": "Rob White",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "18350",
+                "name": "Graham Cowdrey",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 18:30:00",
+        "team1": {
+            "name": "Sussex",
+            "squad": [
+                "Philip Salt",
+                "Luke Wright",
+                "Thomason",
+                "MacLeod",
+                "Rawlins",
+                "Wiese",
+                "Bopara",
+                "George Garton",
+                "Ollie Robinson",
+                "Claydon",
+                "Briggs"
+            ],
+            "squad_bench": [
+                "Will Beer",
+                "Brown",
+                "Meaker",
+                "J Carson"
+            ]
+        },
+        "team2": {
+            "name": "Middlesex",
+            "squad": [
+                "Max Holden",
+                "Stevie Eskinazi",
+                "Cracknell",
+                "Martin Andersson",
+                "Simpson",
+                "Luke Hollman",
+                "James Harris",
+                "Helm",
+                "Nathan Sowter",
+                "Finn",
+                "Murtagh"
+            ],
+            "squad_bench": [
+                "Miguel Cummins",
+                "Gubbins",
+                "Blake Cullen",
+                "Dan Lincoln",
+                "Thilan Walallawita"
+            ]
+        }
+    },
+    {
+        "id": "30124",
+        "srs": "T20 Blast 2020",
+        "mnum": "South Group",
+        "type": "T20",
+        "mchstate": "mom",
+        "status": "SUR won by 9 wkts",
+        "venue_name": "The Rose Bowl",
+        "venue_location": "Southampton, England",
+        "toss": "Surrey elect to bowl",
+        "official": {
+            "umpire1": {
+                "id": "9382",
+                "name": "Billy Taylor",
+                "country": "ENG"
+            },
+            "umpire2": {
+                "id": "5378",
+                "name": "Rob Bailey",
+                "country": "ENG"
+            },
+            "referee": {
+                "id": "5407",
+                "name": "Peter Such",
+                "country": "ENG"
+            }
+        },
+        "start_time": "2020-09-18 18:30:00",
+        "team1": {
+            "name": "Hampshire",
+            "squad": [
+                "Munsey",
+                "James Vince",
+                "Felix Organ",
+                "Holland",
+                "Tom Scriven",
+                "J Fuller",
+                "Calvin Harrison",
+                "Scott Currie",
+                "C Wood",
+                "Ryan Stevenson",
+                "Shaheen Afridi"
+            ],
+            "squad_bench": [
+                "S Northeast",
+                "Weatherley",
+                "Lewis McManus",
+                "Mason Crane",
+                "Ajeet Dale",
+                "Wheal",
+                "Alsop"
+            ]
+        },
+        "team2": {
+            "name": "Surrey",
+            "squad": [
+                "Will Jacks",
+                "Roy",
+                "Laurie Evans",
+                "Foakes",
+                "Rory Burns",
+                "Jamie Smith",
+                "J Overton",
+                "Gus Atkinson",
+                "Plunkett",
+                "Moriarty",
+                "Topley"
+            ],
+            "squad_bench": [
+                "Amla",
+                "Rikki Clarke",
+                "Amar Virdi",
+                "Ryan Patel",
+                "Dunn",
+                "Borthwick",
+                "Stoneman",
+                "Gareth Batty"
+            ]
+        }
+    },
+    {
+        "id": "30330",
+        "srs": "Indian Premier League 2020",
+        "mnum": "1st Match",
+        "type": "T20",
+        "mchstate": "preview",
+        "status": "Starts in 5 hrs 19 mins",
+        "venue_name": "Sheikh Zayed Stadium",
+        "venue_location": "Abu Dhabi, United Arab Emirates",
+        "toss": "",
+        "official": null,
+        "start_time": "2020-09-19 19:30:00",
+        "team1": {
+            "name": "Mumbai Indians",
+            "squad": [],
+            "squad_bench": [
+                "Rohit",
+                "de Kock",
+                "Suryakumar Yadav",
+                "Ishan Kishan",
+                "Pollard",
+                "Krunal Pandya",
+                "Hardik Pandya",
+                "Coulter-Nile",
+                "Rahul Chahar",
+                "Boult",
+                "Bumrah",
+                "D Kulkarni",
+                "Saurabh Tiwary",
+                "Pattinson",
+                "Tare",
+                "McClenaghan",
+                "Chris Lynn",
+                "Jayant Yadav",
+                "Anmolpreet Singh",
+                "Anukul Roy",
+                "Mohsin Khan",
+                "Rutherford",
+                "Digvijay Deshmukh",
+                "Prince Balwant Rai"
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "squad": [],
+            "squad_bench": [
+                "Dhoni",
+                "Watson",
+                "Rayudu",
+                "du Plessis",
+                "Kedar Jadhav",
+                "Dwayne Bravo",
+                "Jadeja",
+                "Chawla",
+                "Chahar",
+                "SN Thakur",
+                "Tahir",
+                "Vijay",
+                "Karn Sharma",
+                "Hazlewood",
+                "Ngidi",
+                "Monu Kumar",
+                "Santner",
+                "Sam Curran",
+                "Sai Kishore",
+                "N Jagadeesan",
+                "Ruturaj Gaikwad",
+                "KM Asif"
+            ]
+        }
+    }
+]
